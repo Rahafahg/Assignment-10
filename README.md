@@ -22,11 +22,11 @@ perpuos of the project is to create a simple interface to implment basic widget.
 
 
 
-![home_page](assets\Screenshot_1723494153.png )
+![home_page](assets\Screenshot_1723494153.png)
 
 
 
-![](assets\Screenshot_1723494159.png)
+![home_page2](assets\Screenshot_1723494159.png)
 
 
 
