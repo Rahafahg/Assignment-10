@@ -1,15 +1,35 @@
-## Assignment:
-Implement this design in an app using Flutter, using widgets that we take in lesson today.
 
-![styled_widget-2](https://github.com/user-attachments/assets/0498f740-2cef-423f-a9c0-736216d33c2a)
-
-
-## Note:
-Upload screenshots of your app
+# assignment_10
+perpuos of the project is to create a simple interface to implment basic widget.
 
 
-## Submission Details:
-Deadline: 13 August 2024
-Submission Format: Provide your Flutter code file(s) along with a README file explaining widgets you are used.
+## used widget
 
-Good luck, and happy coding!
+- Basic widgets
+
+1. Columns and Rows
+2. Container with BoxDecoration
+3. Padding and SizedBox
+
+- Cutsom widgets
+
+1. TextColumn(to add two text in column)
+2. IconWithLebal(to add icon and text under it)
+3. CoustemCard(a Cutsom card)
+
+
+## output images
+
+
+
+![home_page](assets\Screenshot_1723494153.png )
+
+
+
+![](assets\Screenshot_1723494159.png)
+
+
+
+## Author
+
+Rahaf Alghamdi
