@@ -22,11 +22,11 @@ perpuos of the project is to create a simple interface to implment basic widget.
 
 
 
-![home_page](assets\Screenshot_1723494153.png)
+
+![Screenshot_1723494153](https://github.com/user-attachments/assets/3ef0a90f-2a28-42b6-ab78-8a437fd6b4d7)
 
 
-
-![home_page2](assets\Screenshot_1723494159.png)
+![Screenshot_1723494159](https://github.com/user-attachments/assets/189e95af-55bf-4bec-ac57-2cf0afb31de1)
 
 
 
